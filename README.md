@@ -1,6 +1,6 @@
 ### Hola, 你好嗎? It's Robert Chu aka. 朱澔然 
 - 🗣 Fluent in Mandarin, English; Learning español
-- 💪🏼 I'm currently preparing for Certified Kubernetes Administrator
+- 💪🏼 I'm just certified by Certified Kubernetes Administrator ( CKA ) on June 10, 2022. [My Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8a489dc9-d26f-47da-a2d1-6b45882eba7e-chu-hao-jan-39c68677-acba-47fe-ac80-d6ee63e31f5a-certificate.pdf) ID No. is "LF-f4bbgjiyb8". 
 - ⛴ I'm a lover of containered microservices and interested in discovering novel applications in K8s
 - 🕸 Know more about me in [here](https://robertchu1205.github.io/)
 
